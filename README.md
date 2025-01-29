@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 # Hi there! 👋 I'm [Your Name]
 
 ## 🚀 About Me
+<!--
 - 🔭 I’m currently working on [Your Project]
 - 🌱 I’m learning [New Technology]
 - 👯 I’m looking to collaborate on [Your Interest]
 - 💬 Ask me about [Your Expertise]
 - 📫 How to reach me: [Your Email or Socials]
-
+-->
 ## 🛠️ Technologies & Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremytsai0210&show_icons=true&theme=dark)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-008080?style=flat-square)](https://yourportfolio.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jeremy-tsai-523b75127/)
