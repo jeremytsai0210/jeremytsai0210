@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Jeremy
 
 ## 🚀 About Me
 <!--
