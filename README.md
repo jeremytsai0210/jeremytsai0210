@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 # Hi there! 👋 I'm Jeremy
 
 ## 🚀 About Me
+As an emerging software engineer, I combine my technical skills with a genuine passion for creating solutions that help people, focusing on writing clean, maintainable code that makes a difference. My early experiences in development have shown me the importance of effective collaboration and clear communication across teams, whether contributing to code reviews, participating in sprint planning, or working to understand client needs. I demonstrate strong problem-solving abilities and an eagerness to learn from more experienced team members. I approach each challenge with curiosity and dedication, always seeking to understand not just how to build something, but why it matters to end users. I'm now looking to join a forward-thinking team where I can continue developing my skills while contributing to meaningful projects that make a positive impact.
+
 <!--
 - 🔭 I’m currently working on [Your Project]
 - 🌱 I’m learning [New Technology]
